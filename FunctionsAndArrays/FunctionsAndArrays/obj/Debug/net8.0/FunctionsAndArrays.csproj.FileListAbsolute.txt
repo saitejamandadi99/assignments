@@ -1,0 +1,14 @@
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\bin\Debug\net8.0\FunctionsAndArrays.exe
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\bin\Debug\net8.0\FunctionsAndArrays.deps.json
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\bin\Debug\net8.0\FunctionsAndArrays.runtimeconfig.json
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\bin\Debug\net8.0\FunctionsAndArrays.dll
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\bin\Debug\net8.0\FunctionsAndArrays.pdb
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.AssemblyInfoInputs.cache
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.AssemblyInfo.cs
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.csproj.CoreCompileInputs.cache
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.dll
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\refint\FunctionsAndArrays.dll
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.pdb
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\FunctionsAndArrays.genruntimeconfig.cache
+D:\c#\assignments\Mar09\FunctionsAndArrays\FunctionsAndArrays\obj\Debug\net8.0\ref\FunctionsAndArrays.dll
