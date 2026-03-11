@@ -4,9 +4,10 @@
     {
         static void Main(string[] args)
         {
-            BankAccount bank1 = new BankAccount("Ajay", 20000);
-            BankAccount bank2 = new BankAccount("Vijay", 22000);
             Random random = new Random();
+            BankAccount bank1 = new BankAccount("Ajay", random.Next(10000,50000));
+            BankAccount bank2 = new BankAccount("Vijay", random.Next(10000,50000));
+            
 
             bank1.Deposit(random.Next(1000, 5000));
             bank2.Deposit(random.Next(1000, 5000));
