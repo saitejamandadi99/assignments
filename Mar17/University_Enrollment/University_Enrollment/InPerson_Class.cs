@@ -8,8 +8,10 @@ namespace University_Enrollment
 {
     public class InPerson_Class: Course
     {
-        public InPerson_Class(string courseName, int capacity) : base( courseName,  capacity)
+        public int RoomNumber { get; set; }
+        public InPerson_Class(string courseName, int capacity, int roomNumber) : base( courseName,  capacity)
         {
+            RoomNumber = roomNumber;
         }
         public override void EnrollStudent()
         {
@@ -17,6 +19,11 @@ namespace University_Enrollment
             if(StudentsEnrollment >= Capacity)
             {
                 Console.WriteLine("Enrollment reached its limit");
+                return;
+            }
+            if(RoomNumber == 0)
+            {
+                Console.WriteLine("Enrollment Failed : Room Number not provided");
                 return;
             }
             StudentsEnrollment++;
